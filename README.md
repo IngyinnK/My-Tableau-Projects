@@ -7,6 +7,19 @@ The project demonstrates key **data visualisation and analytics skills**, transf
 
 The dashboards explore trends, patterns, and relationships in datasets using multiple visualisation techniques and interactive features.
 
+## 🎯 Project Objective
+
+The goal of this project was to build practical experience in:
+
+- Data visualisation
+- Dashboard creation
+- Interactive analytics
+- Communicating insights through data
+
+These skills are essential for turning complex datasets into **clear, actionable insights for stakeholders**.
+
+---
+
 ## 🛠️ Skills Demonstrated
 
 - 📊 **Interactive Dashboard Design**
@@ -75,19 +88,3 @@ The dashboards help users:
 
 ---
 
-## 🎯 Project Objective
-
-The goal of this project was to build practical experience in:
-
-- Data visualisation
-- Dashboard creation
-- Interactive analytics
-- Communicating insights through data
-
-These skills are essential for turning complex datasets into **clear, actionable insights for stakeholders**.
-
----
-
-## 👨‍💻 Author
-
-Created as part of a **Data Technician Bootcamp portfolio project**.
