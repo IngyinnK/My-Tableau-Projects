@@ -7,6 +7,8 @@ The project demonstrates key **data visualisation and analytics skills**, transf
 
 The dashboards explore trends, patterns, and relationships in datasets using multiple visualisation techniques and interactive features.
 
+---
+
 ## 🎯 Project Objective
 
 The goal of this project was to build practical experience in:
@@ -30,6 +32,8 @@ These skills are essential for turning complex datasets into **clear, actionable
 - 📈 **Trend Analysis**
 - 🎨 **Visual Design Best Practices**
 
+---
+
 ## 📉 Chart Types Used
 
 The dashboards include a variety of visualisations to present data effectively:
@@ -41,6 +45,8 @@ The dashboards include a variety of visualisations to present data effectively:
 | 🥧 **Pie Charts** | Display proportional distributions |
 | 🔵 **Scatter Plots** | Explore relationships between variables |
 | 🗺️ **Maps** | Visualise geographic patterns |
+
+---
 
 ## 🎛️ Dashboard Features
 
@@ -83,10 +89,12 @@ The dashboards help users:
 ## 🖥️ Sample Dashboards
 
 - **Global Health Insights Dashboard**
-- <img width="788" height="419" alt="image" src="https://github.com/user-attachments/assets/4c52ea05-d05b-4156-8965-1b16be87ddc4" />
+<img width="788" height="419" alt="image" src="https://github.com/user-attachments/assets/4c52ea05-d05b-4156-8965-1b16be87ddc4" />
+
+---
 
 - **Spotify Data Analysis Dashboard**
-- <img width="788" height="380" alt="image" src="https://github.com/user-attachments/assets/c9070c7a-36f0-44fc-8417-4302c8c49360" />
+<img width="788" height="380" alt="image" src="https://github.com/user-attachments/assets/c9070c7a-36f0-44fc-8417-4302c8c49360" />
 
 ---
 
