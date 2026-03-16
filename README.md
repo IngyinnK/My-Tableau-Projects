@@ -80,11 +80,22 @@ The dashboards help users:
 
 ---
 
-## 🌍 Example Dashboards
+## 🖥️ Sample Dashboards
 
 - **Global Health Insights Dashboard**
+- <img width="788" height="419" alt="image" src="https://github.com/user-attachments/assets/4c52ea05-d05b-4156-8965-1b16be87ddc4" />
+
 - **Spotify Data Analysis Dashboard**
-- Interactive dashboards combining multiple charts and filters
+- <img width="788" height="380" alt="image" src="https://github.com/user-attachments/assets/c9070c7a-36f0-44fc-8417-4302c8c49360" />
 
 ---
+
+
+
+
+
+
+
+
+
 
