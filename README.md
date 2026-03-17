@@ -87,14 +87,18 @@ The dashboards help users:
 ---
 
 ## 🖥️ Sample Dashboards
-
-- **Global Health Insights Dashboard**
-<img width="788" height="419" alt="image" src="https://github.com/user-attachments/assets/4c52ea05-d05b-4156-8965-1b16be87ddc4" />
+- ### Employment Dashborad [Dashboard Link](https://public.tableau.com/views/EmploymentDashboard-K/GBEmploymentData?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+<img width="788" height="419" alt="image" src="https://github.com/user-attachments/assets/d6295a28-2d01-4b3c-881f-ebab674a4214" />
 
 ---
 
-- **Spotify Data Analysis Dashboard**
-<img width="788" height="380" alt="image" src="https://github.com/user-attachments/assets/c9070c7a-36f0-44fc-8417-4302c8c49360" />
+- ### Global Health Insights Dashboard [Dashboard Link](https://public.tableau.com/views/GlobalHealthDashboard-K/GlobalHealthInsights?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+<img width="788" height="419" alt="image" src="https://github.com/user-attachments/assets/76b07e68-05b0-4f1f-b28b-2e33044138d8" />
+
+---
+
+- ### Spotify Data Analysis Dashboard [Dashboard Link](https://public.tableau.com/views/SpotifyFeatures-K/SpotifyFeatures-K?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+<img width="788" height="419" alt="image" src="https://github.com/user-attachments/assets/2f9e7065-e398-4acb-a203-92cbf718735c" />
 
 ---
 
