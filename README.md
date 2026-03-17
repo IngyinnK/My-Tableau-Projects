@@ -87,17 +87,17 @@ The dashboards help users:
 ---
 
 ## 🖥️ Sample Dashboards
-- ### Employment Dashborad [Dashboard Link](https://public.tableau.com/views/EmploymentDashboard-K/GBEmploymentData?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+- ### Employment Dashborad ([Dashboard Link](https://public.tableau.com/views/EmploymentDashboard-K/GBEmploymentData?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))
 <img width="788" height="419" alt="image" src="https://github.com/user-attachments/assets/d6295a28-2d01-4b3c-881f-ebab674a4214" />
 
 ---
 
-- ### Global Health Insights Dashboard [Dashboard Link](https://public.tableau.com/views/GlobalHealthDashboard-K/GlobalHealthInsights?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+- ### Global Health Insights Dashboard ([Dashboard Link](https://public.tableau.com/views/GlobalHealthDashboard-K/GlobalHealthInsights?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))
 <img width="788" height="419" alt="image" src="https://github.com/user-attachments/assets/76b07e68-05b0-4f1f-b28b-2e33044138d8" />
 
 ---
 
-- ### Spotify Data Analysis Dashboard [Dashboard Link](https://public.tableau.com/views/SpotifyFeatures-K/SpotifyFeatures-K?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+- ### Spotify Data Analysis Dashboard ([Dashboard Link](https://public.tableau.com/views/SpotifyFeatures-K/SpotifyFeatures-K?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))
 <img width="788" height="419" alt="image" src="https://github.com/user-attachments/assets/2f9e7065-e398-4acb-a203-92cbf718735c" />
 
 ---
