@@ -97,7 +97,7 @@ The dashboards help users:
 
 ---
 
-- ### Spotify Data Analysis Dashboard ([Dashboard Link](https://public.tableau.com/views/SpotifyFeatures-K/SpotifyFeatures-K?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))
+- ### Spotify Features Analysis Dashboard ([Dashboard Link](https://public.tableau.com/views/SpotifyFeatures-K/SpotifyFeatures-K?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))
 <img width="788" height="419" alt="image" src="https://github.com/user-attachments/assets/2f9e7065-e398-4acb-a203-92cbf718735c" />
 
 ---
