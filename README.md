@@ -88,7 +88,7 @@ The dashboards help users:
 
 ## 🖥️ Sample Dashboards
 - ### Employment Dashborad ([Dashboard Link](https://public.tableau.com/views/EmploymentDashboard-K/GBEmploymentData?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))
-<img width="788" height="419" alt="image" src="https://github.com/user-attachments/assets/d6295a28-2d01-4b3c-881f-ebab674a4214" />
+<img width="788" height="419" alt="image" src="https://github.com/user-attachments/assets/060381b9-4122-4f32-a5a8-d03a555852b7" />
 
 ---
 
